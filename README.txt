@@ -3,18 +3,18 @@
   <html>
     <head>
       <meta charset="utf-8">
-      <title>Моя личная страничка</title>
+      <title>РњРѕСЏ Р»РёС‡РЅР°СЏ СЃС‚СЂР°РЅРёС‡РєР°</title>
     </head>
     <body> 
-      <left><h1>Константин Березин</h1></left>
+      <left><h1>РљРѕРЅСЃС‚Р°РЅС‚РёРЅ Р‘РµСЂРµР·РёРЅ</h1></left>
       <left><img alt="me" width="30%" src="me.jpg"></left>
       <br/>
-      <h2>Контакты:</h2>
-      Страничка <a href=https://vk.com/username/>id234180012</a>
+      <h2>РљРѕРЅС‚Р°РєС‚С‹:</h2>
+      РЎС‚СЂР°РЅРёС‡РєР° <a href=https://vk.com/username/>id234180012</a>
       <br/>
       <a href=https://github.com/username>GitHub</a>
       <br/>
-      Телефон: <b>+79030009514</b>
+     РўРµСЂРµС„РѕРЅ: <b>+79030009514</b>
       <br/>
       E-mail: <i>constant.berezin1938@gmail.com</i>
     </body>
